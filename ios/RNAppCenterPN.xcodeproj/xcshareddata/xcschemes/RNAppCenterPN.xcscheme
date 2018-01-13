@@ -61,9 +61,9 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "00E356ED1AD99517003FC87E"
-               BuildableName = "RNAppCenterPNTests.xctest"
-               BlueprintName = "RNAppCenterPNTests"
-               ReferencedContainer = "container:RNAppCenterPN.xcodeproj">
+               BuildableName = "PushNotificationsAppTests.xctest"
+               BlueprintName = "PushNotificationsAppTests"
+               ReferencedContainer = "container:PushNotificationsApp.xcodeproj">
             </BuildableReference>
          </TestableReference>
       </Testables>
@@ -71,9 +71,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "13B07F861A680F5B00A75B9A"
-            BuildableName = "RNAppCenterPN.app"
-            BlueprintName = "RNAppCenterPN"
-            ReferencedContainer = "container:RNAppCenterPN.xcodeproj">
+            BuildableName = "PushNotificationsApp.app"
+            BlueprintName = "PushNotificationsApp"
+            ReferencedContainer = "container:PushNotificationsApp.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
       <AdditionalOptions>
@@ -94,9 +94,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "13B07F861A680F5B00A75B9A"
-            BuildableName = "RNAppCenterPN.app"
-            BlueprintName = "RNAppCenterPN"
-            ReferencedContainer = "container:RNAppCenterPN.xcodeproj">
+            BuildableName = "PushNotificationsApp.app"
+            BlueprintName = "PushNotificationsApp"
+            ReferencedContainer = "container:PushNotificationsApp.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
       <AdditionalOptions>
@@ -113,9 +113,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "13B07F861A680F5B00A75B9A"
-            BuildableName = "RNAppCenterPN.app"
-            BlueprintName = "RNAppCenterPN"
-            ReferencedContainer = "container:RNAppCenterPN.xcodeproj">
+            BuildableName = "PushNotificationsApp.app"
+            BlueprintName = "PushNotificationsApp"
+            ReferencedContainer = "container:PushNotificationsApp.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </ProfileAction>
